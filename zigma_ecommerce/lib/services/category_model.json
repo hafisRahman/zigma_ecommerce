@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+           "name" : "Women Clothing",
+           "subcategory": [
+            "Wedding & Events",
+            "Tops & Sets" ,
+            "Watches"
+           ] 
+        },
+        {
+            "name" : "Men clothing & Fasions",
+            "subcategory": [
+             "Outwear & Jackets",
+             "Formal Dress" ,
+             "Jeans & Trousers"
+            ] 
+         },
+         {
+            "name" : "Computer & Accessories",
+            "subcategory": [
+             "Laptops",
+             "Gaming PC" ,
+             "HeadPhone & Speakers"
+            ] 
+         },
+         {
+            "name" : "Automobiles",
+            "subcategory": [
+             "Cars",
+             "Bikes & Scooters" ,
+             "Accessories"
+            ] 
+         },
+         {
+            "name" : "Kids Section",
+            "subcategory": [
+             "Toys",
+             "Stationary & School Supplies" ,
+             "Baby Cloths"
+            ] 
+         },
+         {
+            "name" : "Sports",
+            "subcategory": [
+             "Sports Equipments",
+             "Fitness " ,
+             "Sports wear"
+            ] 
+         },
+         {
+            "name" : "CellPhone & Tablets",
+            "subcategory": [
+             "SmartPhones",
+             "Keypad Mobilephones " ,
+             "Tabletsr"
+            ] 
+         },
+         {
+            "name" : "Personal Care",
+            "subcategory": [
+             "Skin Care",
+             "Hair Care " ,
+             "Fragrance"
+            ] 
+         },
+         {
+            "name" : "Furniture",
+            "subcategory": [
+             "Bedroom Furniture",
+             "Living Room Furniture" ,
+             "Study and office",
+             " Dining and Kitchen",
+             "OutDoor furnitures"
+            ] 
+         }
+
+    ]
+}
